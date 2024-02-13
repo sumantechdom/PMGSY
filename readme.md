@@ -27,3 +27,4 @@ pip install -r requirements.txt
 # Execute the project by running the main script 
 python main.py
 
+<!-- This project has scope of improvement, Like Exception handling must be added to the code -->
