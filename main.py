@@ -157,5 +157,14 @@ class RoadProgress:
   
     
 
-p1 = RoadProgress("Rajasthan")
-p1.main()
+first_state = RoadProgress("Andhra Pradesh")
+second_state = RoadProgress("Bihar")
+third_state = RoadProgress("Haryana")
+fourth_state = RoadProgress("Maharashtra")
+fifth_state = RoadProgress("Rajasthan")
+
+first_state.main()
+second_state.main()
+third_state.main()
+fourth_state.main()
+fifth_state.main()
